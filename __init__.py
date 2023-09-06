@@ -1,0 +1,1 @@
+from .ordo_paint import PaintPlugin

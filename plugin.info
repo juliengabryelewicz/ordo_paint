@@ -1,0 +1,6 @@
+[Plugin]
+Id = ordo_paint
+Name = Paint
+Version = 1.0.0
+Description = Dessinez ce que vous voulez dessus
+Required = feedparser
